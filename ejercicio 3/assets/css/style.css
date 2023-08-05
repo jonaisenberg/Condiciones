@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    min-height: 100vh;
+    background-color: rgb(90, 223, 223);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+h2 {
+    margin: 15px;
+    font-family: Arial;
+}
+
+select {
+    margin: 15px;
+    font-size: 25px;
+    padding: 3px;
+    border-radius: 5px;
+}
+
+p {
+    font-family: cursive;
+    font-size: 25px;
+    color: black;
+}
+
+#entrar {
+    background-color: rgb(45, 120, 120);
+    color: antiquewhite;
+    height: 45px;
+    font-size: 30px;
+    width: 120px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.container-password{
+    margin: 40px;
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 17px;
+}

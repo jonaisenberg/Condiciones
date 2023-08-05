@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    min-height: 100vh;
+    background-color: rgb(90, 223, 223);
+    display: flex;
+    justify-content: center;
+}
+
+#square {
+    margin: 50px;
+    width: 450px;
+}
